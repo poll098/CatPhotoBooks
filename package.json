@@ -1,0 +1,22 @@
+{
+  "name": "cat_photo_books",
+  "version": "1.0.0",
+  "description": "cat's photobooks",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poll098/CatPhotoBooks.git"
+  },
+  "author": "bychoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poll098/CatPhotoBooks/issues"
+  },
+  "homepage": "https://github.com/poll098/CatPhotoBooks#readme"
+}
